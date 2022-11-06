@@ -1,0 +1,21 @@
+{
+  "name": "xujwec--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@progress/kendo-react-treeview": "5.9.0",
+    "@progress/kendo-licensing": "1.2.2",
+    "@progress/kendo-react-animation": "5.9.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
